@@ -1518,7 +1518,6 @@ ul.arrow {
 
 .main-content .container {
   background: white;
-  border-radius: 5px;
   padding: 30px; }
 
 .section-title {
@@ -1564,6 +1563,7 @@ ul.arrow {
   font-weight: 300; }
 
 .page figure {
+  margin-bottom: 30px; }
   margin-bottom: 30px; }
 .page img {
   max-width: 100%; }

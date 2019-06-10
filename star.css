@@ -1,3 +1,56 @@
+nav{
+background-image: url(4.jpg);
+width: 1583px;
+height: 500px;
+background-repeat: no-repeat;
+}
+
+.head_p{
+color: white;
+padding-top: 240px;
+margin-left: 40px;
+}
+
+.login_form{
+width: 550px;
+height: 450px;
+float: left;
+margin-top: 200px;
+margin-left: 120px;
+color: white;
+border: 8px solid white;
+padding: 5px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *{
     margin: 0;
     padding: 0;
