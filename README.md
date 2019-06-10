@@ -22,7 +22,7 @@ they are implemented.
 <br>
 ![alt text](Capture2.PNG)
 <br>
-![alt text](Capture2.PNG)
+![alt text](Capture3.PNG)
 
 
 ## Features supported by the front end 
