@@ -18,11 +18,11 @@ they are implemented.
 ![alt text](img.png)
 
 ## After Modifications
-![alt text](capture1.png)
+![alt text](Capture1.PNG)
 <br>
-![alt text](capture2.png)
+![alt text](Capture2.PNG)
 <br>
-![alt text](capture2.png)
+![alt text](Capture2.PNG)
 
 
 ## Features supported by the front end 
